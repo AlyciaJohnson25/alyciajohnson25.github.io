@@ -19,20 +19,16 @@ navbar:
   - text: Research
     href: research.html
     icon: fa-flask
-  - text: Website Tutorial
-    href: website_tutorial.html
   - text: Resume
-    href: "./resume/resume_john_doe.pdf"
+    href: "./resume/AJohnson_CVSpring2024_v2.pdf"
     icon: fa-id-card
   right:
-  - icon: fa-twitter
-    href: https://twitter.com/another_ant_guy
+  - icon: fa-brands fa-researchgate
+    href: "https://www.researchgate.net/profile/Alycia-Johnson-3"
     align: right
-  - { 
-      icon: "fa-linkedin", 
-      href: "https://www.linkedin.com/in/biplabendu/", 
-      align: right
-    }
+  - icon: fa-linkedin
+    href: "https://www.linkedin.com/in/alycia-johnson-7541a11b7/"
+    align: right
 
 
 # Resources:
