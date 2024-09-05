@@ -1,0 +1,39 @@
+---
+title: "Teaching"
+---
+
+```{r setup, include=FALSE}
+
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(knitr)
+
+knitr::opts_chunk$set(echo = F)
+knitr::opts_chunk$set(warning = F)
+knitr::opts_chunk$set(message = F)
+```
+
+
+<style>
+body {text-align: left}
+</style>
+
+___
+## TA Courses
+
+BIOL 267: Human Evolutionary Genetics
+* INSERT COURSE DESCRIPTION HERE
+
+___
+
+## Undergraduate Mentees
+
+1. Aditi Jasapara
+
+2. Aidan Craner
+
+___
+
+## Outreach Activities
+
+INSERT GIRL SCOUTS AND OUTREACH PRESENTATIONS HERE
+

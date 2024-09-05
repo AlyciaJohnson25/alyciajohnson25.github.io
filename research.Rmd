@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research Projects"
 ---
 
 ```{r setup, include=FALSE}
@@ -19,15 +19,9 @@ body {text-align: left}
 
 ___
 
-## 1. Variation in hooman food
+## 1. Relatedness and Grouping Strategies
 
-Hoomans love their food, and I love to qualitatively assess the variation across hooman food. 
-
->_I love protein-rich food. Sometimes, pasta is okay._
-
-### Story time 
-
-I remember that one time, when my two favorite hoomans and I were driving from Florida to Arizona. On a sunny day in the middle of nowhere in Florida was nestled this beautiful, rustic town. This was the moment when I first met Arby's. What a beautiful day it was!
+Insert abstract about relatedness project here 
 
 ```{r, fig.cap="Me and Arbys.", out.width = '50%', fig.align='center'}
 knitr::include_graphics("me_doing_stuff.jpg")
@@ -35,17 +29,18 @@ knitr::include_graphics("me_doing_stuff.jpg")
    
 ___
 
-## 2. Temporal patterns of food availability
+## 2. Long Term Responses to Climate Change
 
-> **Do hooman food availability show circadian rhythms?**
-
-I have been studying the above question for a long time now. However, obtaining funds to publish in current times is hard.
+Insert abstract about Selection project here
 
 ___
 
-## 3. Future directions
+## 3. Demographic History of a Subtropical Wasp
 
-* Food availability in urban vs. natural habitats
-* Daily association between amount of food available and duration of walk
+Insert abstract about Demographic modelling here
 
 ___
+
+## 4. Past Projects
+
+* Natural History of a Caribbean paper wasp

@@ -14,28 +14,32 @@ pacman::p_load(knitr)
 
 ###
 
-```{r, echo=FALSE, fig.cap="Hi! I am Estrella.", out.width = '30%', fig.align='center'}
-knitr::include_graphics("my_smiling_face_here.jpg")
+```{r, echo=FALSE, fig.cap="Photo by Eisley & Oak Photography", out.width = '50%', fig.align='center'}
+knitr::include_graphics("BridgeMe.jpg")
 ```
    
 <h6 style="text-align: center;" markdown="1">
 
-Email: da_boss_estrella [at] hotmail [dot] com
+Email: ajohn154\@ur.rochester.edu
 
 </h6>     
 
-I am a budding biolgist always curious about human behavior, especially the temporal patterns in which hoomans do and do not provide food. You can find out more about my day to day activities from some of my hooman friends, such as [Biplabendu Das](https://biplabendu.github.io/homepage/).
+insert bio paragraph here
 
 
 ----------------------------------
 
-## Publications, Tutorials, Talks
+## Publications
 
 <!-- <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script> -->
 
 ##
 
-2. _**Das, B.**, Brouns, R., Will, I., Brachmann, A., de Bekker, C. (2023)_ Using RNASeq to investigate the involvement of the _Ophiocordyceps_ clock in ant host infection and behavioral manipulation. _bioRxiv_ [*PDF*](https://www.biorxiv.org/content/10.1101/2023.01.20.524843v2.abstract)
+1. _**Das, B.**, Brouns, R., Will, I., Brachmann, A., de Bekker, C. (2023)_ Using RNASeq to investigate the involvement of the _Ophiocordyceps_ clock in ant host infection and behavioral manipulation. _bioRxiv_ [*PDF*](https://www.biorxiv.org/content/10.1101/2023.01.20.524843v2.abstract)
 <!-- <div class='altmetric-embed' data-badge-popover="right" data-badge-type='medium-bar' data-doi="10.1101/2023.01.20.524843"></div> -->
 
-1. _**Das, B.**, Brachmann, A., de Bekker, C. (2023)_ Both behavior-manipulating and non-manipulating entomopathogenic fungi affect rhythmic gene expression in carpenter ant foragers upon infection. _bioRxiv_ [*PDF*](https://www.biorxiv.org/content/10.1101/2023.01.19.524837v2.abstract)
+2. _Uy, F. M. K., **Johnson, A. N.**, Cook, H., & Reeve, H. K._ (in prep). Grouping with non-kin: when potential joiners and residents should be mutually accepting. 
+
+3. _Robinson, K. M., Mabry, Z. C., Schonekas, H., Robles López, K. Y., **Johnson, A. N.**, Cipriani, G., Nguyen, A., Ziemke, C. H., Baudier, K. M._ (submitted). Is disturbance stridulation in the passalid beetle Odontotaenius disjunctus a form of social communication? _Insectes Sociaux_.
+
+4. _**Johnson, A.**, Ziemke, C. H., Yee, D. A., & Baudier, K. M. (2024)._ Notes on the natural history and climatic specializations of an endemic Caribbean paper wasp (Hymenoptera: Vespidae: _Mischocyttarus phthisicus_). _Caribbean Naturalist. 96, 1-8._

@@ -6,7 +6,7 @@ output:
     # css: assets/style.css
     self_contained: yes
     keep_md: no
-    theme: flatly
+    theme: cosmo
     toc: yes
     toc_depth: 3
     toc_float: yes
@@ -19,6 +19,9 @@ navbar:
   - text: Research
     href: research.html
     icon: fa-flask
+  - text: Teaching
+    href: mentorship.html
+    icon: fa-graduation-cap
   - text: Resume
     href: "./resume/AJohnson_CVSpring2024_v2.pdf"
     icon: fa-id-card
