@@ -24,7 +24,7 @@ ___
 Insert abstract about relatedness project here 
 
 ```{r, fig.cap="Me and Arbys.", out.width = '50%', fig.align='center'}
-knitr::include_graphics("me_doing_stuff.jpg")
+knitr::include_graphics("./images/me_doing_stuff.jpg")
 ```
    
 ___
