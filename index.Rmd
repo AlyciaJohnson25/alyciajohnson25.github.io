@@ -15,7 +15,7 @@ pacman::p_load(knitr)
 ###
 
 ```{r, echo=FALSE, fig.cap="Photo by Eisley & Oak Photography", out.width = '50%', fig.align='center'}
-knitr::include_graphics("BridgeMe.jpg")
+knitr::include_graphics("./images/BridgeMe.jpg")
 ```
    
 <h6 style="text-align: center;" markdown="1">
