@@ -24,14 +24,19 @@ ___
 Insert abstract about relatedness project here 
 
 ```{r, fig.cap="Me and Arbys.", out.width = '50%', fig.align='center'}
-knitr::include_graphics("./images/me_doing_stuff.jpg")
+#knitr::include_graphics("./images/me_doing_stuff.jpg")
 ```
    
 ___
 
 ## 2. Long Term Responses to Climate Change
 
-Insert abstract about Selection project here
+<div style="display: flex; align-items: center;">
+  <p style="width: 50%;">
+  Changing climates, whether long-term or short-term, have elicited adaptive responses in the populations experiencing those changes. Whole genome scans for signatures of selection reveal how adaptations arise, their underlying genetic basis. We take advantage of the Mexican Paper Wasp Mischocyttarus mexicanus, widely distributed ranges from southern Florida to North Carolina and Texas, adapting to different climates. Our previous work showed two distinct genetic clusters that divide subtropical populations (South) and temperate populations (North). Here, we implement genome-wide selection scan techniques to identify genes under selection in different populations and investigate the genetic basis of local adaptation. Population genetic statistics support the hypothesis of a northward range expansion and genetic structure between temperate and subtropical populations. Selection scans reveal genomic regions associated with mitochondrial metabolism highlight possible adaptations that allow a northward range expansion. We will further explore adaptations that facilitate range expansions while accounting for demographic history.
+  </p>
+  <img src="./images/Rough_Selection_FL_Transect.png" alt="Selection Transect" style="width: 60%; margin-right: 10px;">
+</div>
 
 ___
 
