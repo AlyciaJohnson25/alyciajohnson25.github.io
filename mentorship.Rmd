@@ -20,20 +20,25 @@ body {text-align: left}
 ___
 ## TA Courses
 
-BIOL 267: Human Evolutionary Genetics
-* INSERT COURSE DESCRIPTION HERE
+BIOL 267: Human Evolutionary Genetics (2024-2025)
+
+  - This course looks at human evolution through the eyes of population genetics and genomics. Topics include the origin of humans, demographic history of human populations, archaic human species, evolution of the human genome, molecular and phenotypic evolution, cultural evolution, and genetic diseases. 
 
 ___
 
 ## Undergraduate Mentees
 
-1. Aditi Jasapara
+1. Aditi Jasapara, 2024-current
+   - Summer Research Grant
 
-2. Aidan Craner
-
+2. Aidan Craner, 2024-current
+   - Summer Research Grant
+ 
 ___
 
 ## Outreach Activities
 
-INSERT GIRL SCOUTS AND OUTREACH PRESENTATIONS HERE
+Highlands at Pittsford Retirement Community
+
+ - Invited Guest Speaker, 2024
 
