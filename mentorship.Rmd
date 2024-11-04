@@ -37,11 +37,9 @@ ___
 ___
 
 ## Outreach Activities
-
-Highlands at Pittsford Retirement Community
-
- - Invited Guest Speaker, 2024
 ```{r, out.width = '50%', fig.align='center'}
 knitr::include_graphics("./images/Pittsford2024_1.jpg")
 ```
+Highlands at Pittsford Retirement Community
 
+ - Invited Guest Speaker, 2024
