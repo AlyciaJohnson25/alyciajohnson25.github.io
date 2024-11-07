@@ -19,21 +19,22 @@ body {text-align: left}
 
 ___
 
-## 1. Relatedness and Grouping Strategies
+## 1. Relatedness and Kin Selection
 
-The evolution of cooperation among related individuals has been a subject of much study in biology. Hamilton's rule states that altruistic behavior should occur when the benefits to the giver outweigh the costs. This normally applies to related individuals, but what causes the evolution of cooperation between unrelated individuals? Many theoretical models have been proposed and tested in social insects, including the transactional model and the tug-of-war model. In the subtropical end of _Mischocyttarus mexicanus_' range, unrelated individuals often group together during the founding stages of nest development. This stage is often fluid with group membership changing often before final colony membership is decided. Preliminary work shows cooperation between unrelated nestmates might be due to the numerous ecological constraints present. Towards the temperate end of their range, it is hypothesized that group formation is dictated by seasonality. We hope to explore different grouping behaviors in various parts of their range using lab colonies of wasps, originating from across their range, exposed to different temperature regimes.
+<div style="display: flex; align-items: center;">
+  <p style="width: 50%;">
+  The evolution of cooperation among related individuals has been a subject of much study in biology. Hamilton's rule states that altruistic behavior should occur when the benefits to the giver outweigh the costs. This normally applies to related individuals, but what promotes the evolution of cooperation between unrelated individuals? Social insects are a classic system to explore elements of kin selection such as this one. I'm particularly interested in the conditions that promote cooperation, kin recognition, and grouping in social wasps. 
+  </p>
+  <img src="./images/Wasp_Choice.png" alt="Wasp Choice" style="width: 100%; margin-right: 10px;">
+</div>
 
-```{r, fig.cap="Group relatedness among wasps in the subtropical range.", out.width = '80%', fig.align='center'}
-knitr::include_graphics("./images/Relatedness_Curves.jpg")
-```
-   
 ___
 
 ## 2. Long Term Responses to Climate Change
 
 <div style="display: flex; align-items: center;">
   <p style="width: 50%;">
-  Changing climates, whether long-term or short-term, have elicited adaptive responses in the populations experiencing those changes. Whole genome scans for signatures of selection reveal how adaptations arise, their underlying genetic basis. We take advantage of the Mexican Paper Wasp _Mischocyttarus mexicanus_, widely distributed ranges from southern Florida to North Carolina and Texas, adapting to different climates. Our previous work showed two distinct genetic clusters that divide subtropical populations (South) and temperate populations (North). Here, we implement genome-wide selection scan techniques to identify genes under selection in different populations and investigate the genetic basis of local adaptation. Population genetic statistics support the hypothesis of a northward range expansion and genetic structure between temperate and subtropical populations. Selection scans reveal genomic regions associated with mitochondrial metabolism highlight possible adaptations that allow a northward range expansion. We will further explore adaptations that facilitate range expansions while accounting for demographic history.
+  Changing climates, whether long-term or short-term, have elicited adaptive responses in the populations experiencing those changes. Understanding these adaptive responses on all levels allows us to have deeper knowledge of adaptation and climatic resilience. I am using whole genome selection scan techniques along with gene expression to find potential candidate genes related to climate adaptation in the social paper wasp, _Mischocyttarus mexicanus_. 
   </p>
   <img src="./images/Rough_Selection_FL_Transect.png" alt="Selection Transect" style="width: 60%; margin-right: 10px;">
 </div>
@@ -42,11 +43,12 @@ ___
 
 ## 3. Demographic History of a Subtropical Wasp
 
-Understanding the demographic history of a species is important when trying to understand their short and long-term evolutionary history. My species, _M. mexicanus_, is thought to have expanded northward out of Florida once it became established in North America. My preliminary analyses shows decreasing genetic diversity in northern ranges, which is consistent with this understanding. I am using demographic modeling software to directly test the hypothesis of expansion into a new climatic region, including inferring effective population size through time, founder events linked to range expansions, and bottleneck events. I will also increase sampling across our Floridian transect to improve demographic models to include three climatic zones: temperate, subtropical, and tropical.
-
-```{r, out.width = '70%', fig.align='center'}
-knitr::include_graphics("./images/Mmex_Distribution.jpg")
-```
+<div style="display: flex; align-items: center;">
+  <p style="width: 100%;">
+  Understanding the demographic history of a species is important when trying to understand their short and long-term evolutionary history. The social paper wasp, _M. mexicanus_, is thought to have expanded northward out of Florida after establishing in North America. I am using demographic modeling and population genetics to predict and model this historic expansion into a new climatic region, including changes in population size, founder events, and bottleneck events.
+  </p>
+  <img src="./images/Mmex_Distribution.jpg" alt="Species Distribution" style="width: 80%; margin-right: 10px;">
+</div>
 
 ___
 

@@ -22,7 +22,7 @@ navbar:
   - text: Teaching
     href: mentorship.html
     icon: fa-graduation-cap
-  - text: Resume
+  - text: Curriculum Vitae
     href: "./resume/AJohnson_CVFall2024.pdf"
     icon: fa-id-card
   right:
