@@ -3,7 +3,7 @@ author: Alycia Johnson
 output_dir: docs
 output:
   html_document:
-    # css: assets/style.css
+    #css: assets/style.css
     self_contained: yes
     keep_md: no
     theme: cosmo
@@ -31,6 +31,9 @@ navbar:
     align: right
   - icon: fa-linkedin
     href: "https://www.linkedin.com/in/alycia-johnson-7541a11b7/"
+    align: right
+  - icon: fa-brands fa-bluesky
+    href: "https://bsky.app/profile/alyciajohnson.bsky.social"
     align: right
 
 

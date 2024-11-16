@@ -24,7 +24,7 @@ knitr::include_graphics("./images/BridgeMe.jpg")
    
 <h4 style="text-align: center;">
 
-Email: ajohn154\@ur.rochester.edu
+Email: ajohn154[at]ur.rochester[dot]edu
 
 </h4>     
 
@@ -48,7 +48,7 @@ I came to the University of Rochester in the Fall of 2023. I am generally intere
 
 -----
 
-2. _Robinson, K. M., Mabry, Z. C., Schonekas, H., Robles López, K. Y., **Johnson, A. N.**, Cipriani, G., Nguyen, A., Ziemke, C. H., Baudier, K. M._ (submitted). Is disturbance stridulation in the passalid beetle Odontotaenius disjunctus a form of social communication? _Insectes Sociaux_.
+2. _Robinson, K. M., Mabry, Z. C., Schonekas, H., Robles López, K. Y., **Johnson, A. N.**, Cipriani, G., Nguyen, A., Ziemke, C. H., Baudier, K. M._ (in press). Is disturbance stridulation in the passalid beetle Odontotaenius disjunctus a form of social communication? _Insectes Sociaux_.
 
 -----
 
@@ -63,7 +63,5 @@ I came to the University of Rochester in the Fall of 2023. I am generally intere
 ##
 
  
- International Society for the Study of Social Insects-North American Section Student & Postdoc Travel Award ($770)
-
-  - Awarded in 2024 for the bi-annual section breakout meeting
+ Student & Postdoc Travel Award. 2024 Breakout Meeting of International Society for the Study of Social Insects-North American Section ($770)
 
