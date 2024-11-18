@@ -1,2 +1,5 @@
-# my_dummy_website
-A dummy website created using RMarkdown and hosted on GitHub pages
+# Alycia Johnson's Webiste
+
+Created from Biplabendu Das' website tutorial, https://github.com/biplabendu/my_dummy_website. 
+
+Last Updated 11/18/24.

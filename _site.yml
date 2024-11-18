@@ -40,5 +40,6 @@ navbar:
 # Resources:
 ## icons 
 # https://fontawesome.com/search?q=ID&o=r&m=free
+#if icons giving trouble, try updating all packages
 
 #rmarkdown::render_site() to update the nav bar
