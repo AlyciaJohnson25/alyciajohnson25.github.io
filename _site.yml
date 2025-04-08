@@ -29,6 +29,9 @@ navbar:
   - icon: fa-brands fa-researchgate
     href: "https://www.researchgate.net/profile/Alycia-Johnson-3"
     align: right
+  - icon: fa-brands fa-google-scholar
+    href: "https://scholar.google.com/citations?user=dL-zEasAAAAJ&hl=en"
+    align: right
   - icon: fa-linkedin
     href: "https://www.linkedin.com/in/alycia-johnson-7541a11b7/"
     align: right
